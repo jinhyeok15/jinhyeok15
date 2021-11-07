@@ -2,7 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinhyeok15%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-https://github-readme-stats.vercel.app/api?username=jinhyeok15
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhyeok15&&show_icons=true&theme=Default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinhyeok15&layout=compact)
 <!--
 **jinhyeok15/jinhyeok15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
