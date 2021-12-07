@@ -4,7 +4,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhyeok15&&show_icons=true&theme=Default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinhyeok15&layout=compact)
-<!--
 
 <div align=center><h1>📚 STACKS 🛠 </h1></div>
       <div align=center>
@@ -29,7 +28,7 @@
       <br>
       </div>
 
-
+<!--
 **jinhyeok15/jinhyeok15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
