@@ -43,3 +43,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### change git branch master to main
+git branch -m master main
+git fetch origin
+git branch -u origin/main main
+git remote set-head origin -a
